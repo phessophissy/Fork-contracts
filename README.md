@@ -6,7 +6,7 @@ TCAP is the World's First Total Cryptocurrency Market Capitalization Token creat
 
 TCAPs are then minted upon being collateralized by an underlying asset, such as ETH, WBTC or DAI. The TCAP smart contracts are powered by Chainlink decentralized oracles that blend real time total market cap crypto data from seven of the most reputable crypto data providers in the world, subsequently bringing said data on chain to our TCAP smart contract.
 
-For complete documentation please go to [docs.cryptex.finance](https://docs.cryptex.finance).
+For complete documentation please go to : [docs.cryptex.finance](https://docs.cryptex.finance).
 
 ## Initial setup
 
